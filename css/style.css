@@ -1,0 +1,66 @@
+body {
+	background-color: #DCD1B4;
+	text-align: center;
+	font-family: Calibri;
+}
+
+button {
+	display: inline-block;
+	margin: 0 auto;
+	padding: 15px 15px;
+	background-color: #FAB87F;
+	font-size: 28px;
+	color: black;
+	border-radius: 10px;
+}
+
+a {
+	text-decoration: none;
+	padding: 15px 15px;
+	color: black;
+}
+
+input {
+    max-width: 700px;
+}
+
+table {
+	margin: 0 auto;
+	border: solid black 1px;
+	border-radius: 1px;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+thead {
+	border: solid black 1px;
+}
+
+td, th {
+	border: solid black 1px;
+	padding: 3px 5px;
+	font-size: 18px;
+}
+
+th {
+	padding: 6px;
+	font-size: 20px;
+}
+
+.play {
+	background-color: #FAB87F;
+	font-size: 28px;
+	color: black;
+	border-radius: 10px;
+	padding: 5px 45px;
+	margin-top: 5px;
+}
+
+.small {
+	font-size: 20px;
+}
+
+.vsmall {
+	font-size: 16px;
+	padding: 2px 2px;
+}
